@@ -1,0 +1,27 @@
+WigaTech Employee Handbook (Sample Document)
+
+1. Working Hours
+Employees are expected to work Monday to Friday, 10:00 AM to 6:00 PM, with a
+one-hour lunch break. On-site attendance is required for this role, at the
+Gulshan-e-Iqbal Block 2 office in Karachi.
+
+2. Leave Policy
+Employees are entitled to 14 paid leave days per year, plus public holidays.
+Sick leave beyond 2 consecutive days requires a medical certificate. Leave
+requests should be submitted at least 3 working days in advance, except for
+emergencies.
+
+3. Probation Period
+New hires undergo a 3-month probation period. Performance is reviewed at the
+end of month 1, month 2, and month 3. Based on performance, an employee may
+move from Intern to Junior Developer, and eventually to Mid-Level Developer.
+
+4. Equipment
+The company provides a laptop and any software licenses needed for AI
+development work, including API credits for approved LLM providers used on
+client projects.
+
+5. Code of Conduct
+All client data, prompts, and documents used in AI/RAG projects are
+confidential and must not be shared outside the company or stored in
+personal accounts.
