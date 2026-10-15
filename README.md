@@ -7,7 +7,7 @@ cited) instead of the model's general knowledge.
 
 Built to demonstrate the core skills behind LLM application development:
 prompt engineering, embeddings, vector search, and wiring an LLM API into a
-working backend + chat UI.
+working backend + chat UI
 
 ## How it works
 
