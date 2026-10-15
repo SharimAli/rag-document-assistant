@@ -1,4 +1,4 @@
-# RAG Document Assistant
+# RAG Document Assistant!
 
 A small Retrieval-Augmented Generation (RAG) system: upload PDFs/text files,
 it indexes them in a local vector database, and you can then ask questions
